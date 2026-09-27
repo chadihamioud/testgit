@@ -1,5 +1,4 @@
 //
-// Created by Chachi on 9/25/2026.
-//
+// Created by Chachi on 9/25/
 
-#include "labo2.h"
+#include <iostream>

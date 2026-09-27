@@ -6,11 +6,8 @@
 #define TESTGIT_LABO2_H
 
 
-
 class labo2 {
-
 };
-
 
 
 #endif //TESTGIT_LABO2_H

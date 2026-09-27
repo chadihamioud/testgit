@@ -31,6 +31,9 @@ int main() {
     temp_total = temp1 + temp2;
 
     cout << "le temps total est : " << temp_total << "h"<<endl;
+    cout << "ce programme la ete crrier par chadi hamioud "<<endl;
+    cout << "show miamigo"<<endl;
+
 
 
     return EXIT_SUCCESS;
