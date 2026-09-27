@@ -19,18 +19,18 @@ int main() {
     l2 =  sqrt (cout_a * cout_a + cout_b * cout_b); /** calcule du longeur l2 **/
 
 
-    double temp1 ;
-    temp1 = (double) l1 / vitesse1;
+    double temps1 ;
+    temps1 = (double) l1 / vitesse1;
 
 
-  double temp2 ;
+  double temps2 ;
     temp2 = l2 / vitesse2;
 
 
-    double temp_total;
-    temp_total = temp1 + temp2;
+    double temps_total;
+    temp_total = temps1 + temps2;
 
-    cout << "le temps total est : " << temp_total << "h"<<endl;
+    cout << "le temps total est : " << temps_total << "h"<<endl;
 
 
     return EXIT_SUCCESS;
