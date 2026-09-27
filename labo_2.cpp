@@ -24,11 +24,11 @@ int main() {
 
 
   double temps2 ;
-    temp2 = l2 / vitesse2;
+    temps2 = l2 / vitesse2;
 
 
     double temps_total;
-    temp_total = temps1 + temps2;
+    temps_total = temps1 + temps2;
 
     cout << "le temps total est : " << temps_total << "h"<<endl;
 
